@@ -4,7 +4,7 @@ This repository contains the source code for my personal portfolio website. It i
 
 ## 🌐 Live Preview
 
-[[(https://github.com/Vijaymamidela/Vijay-portfolio)](https://github.com/Vijaymamidela/Vijay-portfolio)]
+[https://github.com/Vijaymamidela/Vijay-portfolio](https://github.com/Vijaymamidela/Vijay-portfolio)
 
 ## 📄 Pages Included
 
